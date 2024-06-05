@@ -1,0 +1,8 @@
+.inner img{
+    cursor: pointer;
+    border: 5px solid #aaa;
+    border-radius: 10px;
+}
+.inner img:hover{
+    border-color:#0f0;
+}
